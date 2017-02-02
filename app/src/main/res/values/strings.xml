@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Assignment</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="spinner_item">
+        <item>Select Item</item>
+        <item>Diploma</item>
+        <item>B-Tech</item>
+        <item>BCA</item>
+        <item>MCA</item>
+    </string-array>
+    <string name="title_activity_image_video">ImageVideo</string>
+</resources>
